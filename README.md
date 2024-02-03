@@ -11,7 +11,7 @@ Database : SQL server , Firebase , My SQL. (Mongo soon)
 ---
 Operating Systems : Linux(ubuntu), KaliLinux, Windows
 ---
-Intro to Cyber Security : Malware , Gone Phishing, PassWork Attack, SQL Inject , DDoS, NmapScan.
+Intro to Cyber Security : Malware , Gone Phishing, PassWork Attack, OWASP Top Ten, DDoS, NmapScan.
 ---
 Security Approches: Penetration Testing, Access Control, Cryptography, Risk Assessment and Analysis, Security Policies
 ---
